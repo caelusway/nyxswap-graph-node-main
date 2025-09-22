@@ -7,7 +7,7 @@ description = "Provides static store instance for tests."
 
 [dependencies]
 graph-graphql = { path = "../../graphql" }
-graphql-parser = "0.4.0"
+graphql-parser = "0.4.1"
 graph-core = { path = "../../core" }
 graph-node = { path = "../../node" }
 graph = { path = "../../graph" }
